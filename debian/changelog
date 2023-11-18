@@ -1,0 +1,5 @@
+linux-upstream (6.1.36-dirty-4) bookworm; urgency=low
+
+  * Custom built Linux kernel.
+
+ -- LennartF22 <18723691+LennartF22@users.noreply.github.com>  Sat, 18 Nov 2023 02:06:48 +0100
